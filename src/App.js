@@ -6,7 +6,7 @@ import PokemonDetails from "./pages/PokemonDetails"
 
 
 function App() {
-
+	const algo = "algo"
   return (
     <div className="App bg-background bg-back-dark">
       <Router>
