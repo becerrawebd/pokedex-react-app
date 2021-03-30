@@ -1,0 +1,13 @@
+npm uninstall web-vitals
+npm uninstall workbox-background-sync
+npm uninstall workbox-broadcast-update
+npm uninstall workbox-cacheable-response
+npm uninstall workbox-core
+npm uninstall workbox-expiration
+npm uninstall workbox-google-analytics
+npm uninstall workbox-navigation-preload
+npm uninstall workbox-precaching
+npm uninstall workbox-range-requests
+npm uninstall workbox-routing
+npm uninstall workbox-strategies
+npm uninstall workbox-streams
